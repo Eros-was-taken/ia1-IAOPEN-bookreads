@@ -11,7 +11,7 @@ El análisis exploratorio de datos nos permitirá comprender las característica
 
 Métricas o indicadores:
 
-Las métricas útiles incluyen precisión, recall y F1-score para evaluar la capacidad predictiva del modelo en cada género. La matriz de confusión revelará qué géneros se confunden frecuentemente. También consideraremos la distribución de clases para detectar desbalances, la longitud promedio de textos por género, diversidad léxica y frecuencia de palabras características. Estas métricas son útiles porque nos permiten cuantificar tanto el rendimiento del modelo como las características distintivas de cada género.
+
 
 Motivación de la elección:
 
