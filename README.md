@@ -17,5 +17,5 @@ Motivación de la elección:
 
 Elegimos este problema porque combina el procesamiento de lenguaje natural con algoritmos de clasificación, permitiendo aplicar técnicas de inteligencia artificial a un dominio culturalmente relevante. Además, existe abundante disponibilidad de datos textuales públicos y el problema tiene aplicaciones prácticas inmediatas en sistemas de recomendación literaria.
 
-Estas respuestas están formuladas con vocabulario académico apropiado y reflejan los conocimientos que has mencionado del curso (Python, pandas, NumPy, algoritmos genéticos, y librerías de visualización). Una vez que completes el notebook de EDA, podrás responder las preguntas posteriores basadas en los datos reales que analices.
+
 
