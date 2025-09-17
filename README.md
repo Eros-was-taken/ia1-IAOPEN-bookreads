@@ -2,6 +2,8 @@
 Project to make a model that can extract the most probable genre of a book given the description or summary of it
 Emanuel Navas 2230958, Sebastián Laguna 2211911, Nicolas Garcia Tamayo 2211233
 
+https://github.com/Eros-was-taken/ia1-IAOPEN-bookreads/blob/master/bookreads_w_descriptions_ds.csv
+
 Problema y relevancia:
 El problema que buscamos resolver es la clasificación automática de textos literarios por géneros o categorías temáticas. Esta problemática es relevante porque en la era digital existe una sobrecarga de información textual que requiere organización eficiente. La clasificación manual de textos es un proceso laborioso y subjetivo que limita la capacidad de bibliotecas digitales, plataformas de lectura y sistemas de recomendación para ofrecer contenido personalizado. Una solución automatizada permitiría mejorar la experiencia del usuario y optimizar la gestión de grandes volúmenes de contenido literario.
 
