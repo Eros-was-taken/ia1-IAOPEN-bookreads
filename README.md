@@ -44,3 +44,47 @@ Las tablas incluyen: título, autor, descripción/sinopsis (texto), géneros/eti
 
 Desafíos asociados a los datos:
 descripciones ausentes o muy breves, etiquetas inconsistentes o multilabel, desequilibrio entre géneros (sesgo hacia populares), ruido (HTML, caracteres especiales), lenguaje informal o variado, metadatos incompletos y posible sesgo cultural/idiomático. Estas limitaciones requieren limpieza, imputación o filtrado, re-etiquetado parcial y estrategias de balanceo para evitar modelos sesgados o con pobre generalización.
+
+2da entrega:
+Partición del dataset
+
+El dataset fue dividido en un 80% para entrenamiento y un 20% para prueba, asegurando una evaluación justa del desempeño.
+En total se procesaron más de mil textos pertenecientes a diferentes géneros literarios.
+Esto permitió que los modelos aprendieran patrones representativos sin memorizar los datos.
+
+Selección de modelos
+
+Entrenamos seis modelos distintos para comparar su rendimiento:
+
+Regresión Logística: F1-Score 48%, Exactitud 11.5%.
+
+Naïve Bayes: F1-Score 57%, Exactitud 20.8%.
+
+Árbol de Decisión: F1-Score 54%, Exactitud 17.2%.
+
+Random Forest: F1-Score 53%, Exactitud 19.5%.
+
+SVM (Máquina de Soporte Vectorial): F1-Score 63%, Exactitud 26.9%.
+
+Red Neuronal (CNN): F1-Score 55%, Exactitud 13.7%.
+Estos valores muestran cómo la SVM fue el modelo con mejor equilibrio entre precisión y generalización.
+
+📊 Métricas de evaluación
+
+Usamos cuatro métricas principales: precisión, sensibilidad, F1-Score y exactitud.
+El F1-Score fue clave, porque combina la precisión y la sensibilidad en una sola medida, permitiendo comparar modelos con diferentes comportamientos.
+
+📈 Resultados
+
+En los resultados generales, la SVM destacó con el mayor F1-Score (63%) y una exactitud del 26.9%, superando a los demás modelos en equilibrio entre rendimiento y estabilidad.
+Los árboles de decisión y bosques aleatorios mostraron sobreajuste, mientras que los modelos más simples tuvieron baja exactitud.
+
+🏆 Modelo destacado
+
+El modelo ganador fue la Máquina de Soporte Vectorial (SVM).
+Este modelo logró un buen balance entre precisión y capacidad de generalización, siendo el más adecuado para clasificar correctamente los géneros literarios.
+
+Conclusiones
+
+Demostramos que la inteligencia artificial puede automatizar la clasificación de géneros literarios de forma efectiva.
+Aunque los resultados aún pueden mejorar con más datos y ajuste de hiperparámetros, logramos un modelo funcional, escalable y con resultados consistentes.
