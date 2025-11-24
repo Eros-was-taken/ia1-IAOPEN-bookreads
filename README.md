@@ -2,10 +2,25 @@
 Project to make a model that can extract the most probable genre of a book given the description or summary of it
 Emanuel Navas 2230958, Sebastián Laguna 2211911, Nicolas Garcia Tamayo 2211233
 
-https://github.com/Eros-was-taken/ia1-IAOPEN-bookreads/blob/master/bookreads_w_descriptions_ds.csv
+## 📄 Documentación del Proyecto
 
-NOTEBOOK:
-https://drive.google.com/file/d/1NrYrkuQDqac6wOJUaOmTFfhptGXYTDCK/view
+**📋 Guion de Presentación Completo:** Ver [GUION_PRESENTACION_PROYECTO_IA.md](./GUION_PRESENTACION_PROYECTO_IA.md)
+- Explicación detallada de ambas partes del proyecto
+- Justificaciones técnicas de todos los hiperparámetros
+- Explicación de todas las gráficas y visualizaciones
+- Secciones de preguntas frecuentes
+
+## 📊 Datasets
+
+Dataset principal: https://github.com/Eros-was-taken/ia1-IAOPEN-bookreads/blob/master/bookreads_w_descriptions_ds.csv
+
+## 📓 Notebooks
+
+Notebook en Google Drive: https://drive.google.com/file/d/1NrYrkuQDqac6wOJUaOmTFfhptGXYTDCK/view
+
+**Notebooks en el repositorio:**
+1. `ProyectodeAIOrganizado (3).ipynb` - Primera parte: Aprendizaje supervisado
+2. `tercera_entrega_final._ipynb.ipynb` - Segunda parte: Aprendizaje no supervisado y reducción de dimensionalidad
 
 Problema y relevancia:
 El problema que buscamos resolver es la clasificación automática de textos literarios por géneros o categorías temáticas. Esta problemática es relevante porque en la era digital existe una sobrecarga de información textual que requiere organización eficiente. La clasificación manual de textos es un proceso laborioso y subjetivo que limita la capacidad de bibliotecas digitales, plataformas de lectura y sistemas de recomendación para ofrecer contenido personalizado. Una solución automatizada permitiría mejorar la experiencia del usuario y optimizar la gestión de grandes volúmenes de contenido literario.
