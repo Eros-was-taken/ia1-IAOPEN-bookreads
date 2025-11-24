@@ -88,3 +88,7 @@ Conclusiones
 
 Demostramos que la inteligencia artificial puede automatizar la clasificación de géneros literarios de forma efectiva.
 Aunque los resultados aún pueden mejorar con más datos y ajuste de hiperparámetros, logramos un modelo funcional, escalable y con resultados consistentes.
+
+<img width="2506" height="923" alt="grafica_pipeline_proyectoia1_plantuml 1" src="https://github.com/user-attachments/assets/f58bcddf-1f57-4519-93ad-ef8038107580" />
+<img width="2065" height="1112" alt="mermaid-diagram-2025-11-24-102208 1" src="https://github.com/user-attachments/assets/5a2c2cea-e65a-497a-a6f1-f0327cc18758" />
+
