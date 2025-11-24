@@ -1,4 +1,4 @@
-# GUION EXTENSO PARA LA PRESENTACIÓN DEL PROYECTO DE INTELIGENCIA ARTIFICIAL
+# GUIÓN EXTENSO PARA LA PRESENTACIÓN DEL PROYECTO DE INTELIGENCIA ARTIFICIAL
 ## Clasificación de Géneros Literarios en Goodreads
 
 ---
@@ -270,7 +270,7 @@ Es un **"bosque"** de muchos árboles de decisión:
 #### Configuración:
 - **n_estimators=200**: 200 árboles en el bosque
 - **max_depth=None**: Sin límite de profundidad por árbol
-- Optimización con **RandomizedSearchCV**
+- Optimización con **Búsqueda Aleatoria con Validación Cruzada (RandomizedSearchCV)**
 
 **[GRÁFICA EXPLICADA: Importancia de características]**
 
@@ -1137,7 +1137,7 @@ Hemos completado un **proyecto integral de Inteligencia Artificial** que abarca:
 
 ✅ **Preprocesamiento robusto:** Limpieza, reducción de géneros de 300+ a 30, vectorización TF-IDF con 5,000 características
 
-✅ **Clasificación supervisada:** 6 modelos comparados rigurosa mente con validación cruzada, SVM ganador (F1=0.63)
+✅ **Clasificación supervisada:** 6 modelos comparados rigurosamente con validación cruzada, SVM ganador (F1=0.63)
 
 ✅ **Aprendizaje no supervisado:** 3 algoritmos de clustering evaluados, K-Means y Agglomerative con K=47 clusters justificados por Elbow Method
 

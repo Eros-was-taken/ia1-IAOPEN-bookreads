@@ -4,7 +4,7 @@ Emanuel Navas 2230958, Sebastián Laguna 2211911, Nicolas Garcia Tamayo 2211233
 
 ## 📄 Documentación del Proyecto
 
-**📋 Guion de Presentación Completo:** Ver [GUION_PRESENTACION_PROYECTO_IA.md](./GUION_PRESENTACION_PROYECTO_IA.md)
+**📋 Guión de Presentación Completo:** Ver [GUION_PRESENTACION_PROYECTO_IA.md](./GUION_PRESENTACION_PROYECTO_IA.md)
 - Explicación detallada de ambas partes del proyecto
 - Justificaciones técnicas de todos los hiperparámetros
 - Explicación de todas las gráficas y visualizaciones
