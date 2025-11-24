@@ -1047,7 +1047,7 @@ Varios factores:
 1. **Tamaño del dataset:** ~6,000 libros es moderado. DL brilla con millones de ejemplos
 2. **Naturaleza de los datos:** TF-IDF en alta dimensionalidad es el terreno natural de SVM
 3. **Esparsidad:** TF-IDF es esparso; embeddings densos pierden esta ventaja
-4. **Tiempo de desarrollo:** SVM requiere menos ajuste (tuning)
+4. **Tiempo de desarrollo:** SVM requiere menos ajuste de parámetros
 5. **Interpretabilidad:** SVM más fácil de explicar
 
 ### Q3: ¿Por qué clustering tuvo rendimiento bajo?
