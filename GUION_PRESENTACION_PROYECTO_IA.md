@@ -1047,7 +1047,7 @@ Varios factores:
 1. **Tamaño del dataset:** ~6,000 libros es moderado. DL brilla con millones de ejemplos
 2. **Naturaleza de los datos:** TF-IDF en alta dimensionalidad es el terreno natural de SVM
 3. **Esparsidad:** TF-IDF es esparso; embeddings densos pierden esta ventaja
-4. **Tiempo de desarrollo:** SVM requiere menos tunning
+4. **Tiempo de desarrollo:** SVM requiere menos ajuste (tuning)
 5. **Interpretabilidad:** SVM más fácil de explicar
 
 ### Q3: ¿Por qué clustering tuvo rendimiento bajo?
@@ -1169,7 +1169,7 @@ Demostramos que la **clasificación automática de géneros literarios** es:
 - Herramientas para bibliotecas digitales
 
 **Trabajo futuro:**
-- Escalar a datasets más grandes (millions de libros)
+- Escalar a datasets más grandes (millones de libros)
 - Implementar Transformers (BERT, GPT) para capturar mejor semántica
 - Clasificación multi-label (libros con múltiples géneros simultáneos)
 - Ensembles de modelos para mejor rendimiento
