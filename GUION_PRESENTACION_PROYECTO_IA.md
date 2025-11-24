@@ -1160,7 +1160,7 @@ Demostramos que la **clasificación automática de géneros literarios** es:
 
 2. **Perplexity=30 en t-SNE:** Valor estándar que balancea estructura local/global, validado empíricamente con comparaciones
 
-3. **K=47 en K-Means:** Determinado por Elbow Method, coherente con dominio (30 géneros verdaderos), stable Silhouette Score
+3. **K=47 en K-Means:** Determinado por Elbow Method, coherente con dominio (30 géneros verdaderos), Silhouette Score estable
 
 **Impacto potencial:**
 - Sistemas de recomendación de libros
