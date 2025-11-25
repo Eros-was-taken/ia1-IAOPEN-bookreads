@@ -7,6 +7,9 @@ https://github.com/Eros-was-taken/ia1-IAOPEN-bookreads/blob/master/bookreads_w_d
 NOTEBOOK:
 https://drive.google.com/file/d/1NrYrkuQDqac6wOJUaOmTFfhptGXYTDCK/view
 
+VIDEO PRESENTACION:
+https://www.youtube.com/watch?v=G8bE8gAcIG4
+
 Problema y relevancia:
 El problema que buscamos resolver es la clasificación automática de textos literarios por géneros o categorías temáticas. Esta problemática es relevante porque en la era digital existe una sobrecarga de información textual que requiere organización eficiente. La clasificación manual de textos es un proceso laborioso y subjetivo que limita la capacidad de bibliotecas digitales, plataformas de lectura y sistemas de recomendación para ofrecer contenido personalizado. Una solución automatizada permitiría mejorar la experiencia del usuario y optimizar la gestión de grandes volúmenes de contenido literario.
 
